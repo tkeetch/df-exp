@@ -1,2 +1,2 @@
 # df-exp
-Compiler introduced fouble-fetch experiement.
+Compiler introduced fouble-fetch experiment.
